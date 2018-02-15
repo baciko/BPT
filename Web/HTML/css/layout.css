@@ -614,27 +614,7 @@ fieldset[disabled] .btn-theme {
 .footer .footer-list-item:last-child {
   margin-bottom: 0;
 }
-.foot {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-}
-.foot > li {
-  position: relative;
-  display: block;
-}
-.foot > li > a {
-  position: relative;
-  display: block;
-  padding: 10px 15px;
-}
-.foot > li > a:hover,
-.foot > li > a:focus {
-  text-decoration: none;
-  background-color: #337ab7;
-  color:#fff;
-  border-bottom: 1px solid #ddd;
-}
+
 /*------------------------------------------------------------------
   	[Header]
 ------------------------------------------------------------------*/
@@ -1245,12 +1225,6 @@ fieldset[disabled] .btn-theme {
 /*------------------------------------------------------------------
   	[Content]
 ------------------------------------------------------------------*/
-
-.content-min{
-padding-top: 15px;
-padding-bottom: 15px;
-}
-
 .content {
   padding-top: 40px;
   padding-bottom: 40px;
